@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <project path="device/xiaomi/mido" remote="github" name="regexreggae/android_device_xiaomi_mido" revision="lineage-18.1" />
+ <project path="vendor/xiaomi" remote="github" name="zeelog/proprietary_vendor_xiaomi" revision="lineage-18.1" />
+ <project path="kernel/xiaomi/mido" remote="github" name="zeelog/android_kernel_xiaomi_mido" revision="lineage-18.1" />
+</manifest>
